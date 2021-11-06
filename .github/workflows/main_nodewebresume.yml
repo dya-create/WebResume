@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'nodewebresume'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_96686E88EB464220888E9AE57FA06867 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C169EAD14417497CB09E0A126BCE2029 }}
           package: .
